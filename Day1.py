@@ -70,5 +70,5 @@ print("Hello Mitroo.....!")
 
 # -------------------------------------- Thank you ---------------------------------------------------
 
-print("Thanks Learn With me")
+# print("Thanks Learn With me")
 
