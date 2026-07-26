@@ -61,6 +61,7 @@ print("Tar Ajj Apna Shiknar Ahota Dictionaries")
 #     print(student["name"],":-",student["Course"])
 
 
+
 # -------------------------------------- Thank you ---------------------------------------------------
 
 # print("Thanks Learn With me")
